@@ -1,14 +1,13 @@
 {
   "name": "docsify-baidu-tj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a docsify plugin for baidu-tj",
   "main": "src",
   "unpkg": "dist/docsify-baidu-tj.min.js",
   "homepage": "https://github.com/mg0324/docsify-baidu-tj",
   "repository": "git@github.com:mg0324/docsify-baidu-tj.git",
   "files": [
-    "dist/",
-    "snapshot.png"
+    "dist/"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

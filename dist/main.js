@@ -1,0 +1,1 @@
+(()=>{"use strict";window.$docsify||(window.$docsify={}),window.$docsify.plugins=(window.$docsify.plugins||[]).concat((function(o,i){o.mounted((function(){console.info("docsify-baidu-tj init success!"),console.info(window.$docsify.bdtj),console.info(i)}))}))})();
