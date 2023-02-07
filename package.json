@@ -1,6 +1,6 @@
 {
   "name": "docsify-baidu-tj",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a docsify plugin for baidu-tj",
   "main": "src",
   "unpkg": "dist/docsify-baidu-tj.min.js",

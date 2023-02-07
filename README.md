@@ -23,5 +23,5 @@ a docsify plugin for baidu-tj(百度统计).
     ```html
 
     <!-- body -->
-    <script src="https://unpkg.com/docsify-baidu-tj@1.0.0/dist/docsify-baidu-tj.min.js"></script>
+    <script src="https://unpkg.com/docsify-baidu-tj@1.0.2/dist/docsify-baidu-tj.min.js"></script>
     ```

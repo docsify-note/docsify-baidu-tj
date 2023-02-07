@@ -6,10 +6,10 @@ export function install (hook, vm) {
         }
         var id = window.$docsify.baiduTjId;
         var host = window.location.host;
-        // if(host.startsWith("localhost") || host.startsWith("127.0.0.1")){
-        //     console.warn("[docsify-baidu-tj] local ip not collect")
-        //     return ;
-        // }
+        if(host.startsWith("localhost") || host.startsWith("127.0.0.1")){
+            console.warn("[docsify-baidu-tj] local ip not collect")
+            return ;
+        }
         var hm = document.createElement("script");
         hm.src = "https://hm.baidu.com/hm.js?"+id;
         var s = document.getElementsByTagName("script")[0]; 
